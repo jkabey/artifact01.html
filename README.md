@@ -46,14 +46,16 @@ THE ART OF MARKETING, Sao Paulo BRAZIL
 http://www.artofmarketing.com
 Internship – 12 weeks full-time</p>
 <h2>Responsibilities and achievements</h2>
- <p>Assisted in the preparation of copywriting including press releases, radio 
+ <ul>
+   <li>Assisted in the preparation of copywriting including press releases, radio 
 and newspaper advertisements
 Conducted market research into client demographics
 Coordinated in-house internal marketing promotions such as ‘Employee of 
 the Month’ selection
 Updated content of The Art of Marketing website
 Assisted Marketing Manager with general sales and marketing administration 
-tasks</p>
+tasks</li>
+   </ul>
 <h2>COMMUNITY INVOLVEMENT & RECOGNISED ACHIEVEMENTS</h2> 
   <p>2006 Selected as President of University Recreation and Sports 
 Representative Council
@@ -68,16 +70,22 @@ and the 40 Hour Famine</>
 <h2>OTHER SKILLS AND CERTIFICATES</h2>
    
   <h3>Computer Skills</h3>
-  <p>Microsoft XP applications (Word, Excel, Office, PowerPoint, Outlook, 
+  <ul>
+    <li>Microsoft XP applications (Word, Excel, Office, PowerPoint, Outlook, 
 Access) – Advanced
 Microsoft Office Document Imaging and Scanning - Advanced
 Acrobat Reader 6.0 – Intermediate
-Fidelio Front Office Systems 6.02 – Beginner</p>
+Fidelio Front Office Systems 6.02 – Beginner</li>
+    </ul>
   <h3>Language Skills</h3>
-  <p>Portuguese - Native Tongue)
-French - Basic (reading and writing skills)
+  <ul>
+    <li>Portuguese - Native Tongue)
+French - Basic (reading and writing skills)<li>
+    </ul>
    <h3>Other</h3>
-<p>St John’s Ambulance Senior First Aid Certificate - 2007</p>
+<ul>
+  <li>St John’s Ambulance Senior First Aid Certificate - 2007</li>
+  </ul>
 <h2>PERSONNAL COMPETENCE</h2>
   <p>Ability to work in a fast-paced environment to set deadlines
 Excellent oral and written correspondence with an exceptional attention to 
