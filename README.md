@@ -33,18 +33,18 @@ High School Certificate equivalent </p>
   <p>Jan 2006 – Current<br>
 MOEMA MARKETING, <i>Sao Paulo BRAZIL</i><br>
 <a href="http://www.moemamkt.com.br"http://www.moemamkt.com.br</a><br>
-Marketing Trainee – Casual (weekends and holidays)<br>
-Responsibilities and achievements:<br>
+Marketing Trainee – Casual (weekends and holidays)</p>
+<p>Responsibilities and achievements:<br>
 Developed marketing and promotional material for sporting events<br>
 Coordinated in-house events for the annual Moema Sports Marketing Fair 
 including audio visual, entertainment, programming, food and beverage and 
-staffing requirements<br>
+staffing requirements
 Attended Regional Conference ‘Sports Marketing in Brazil 2007’<br>
 Increased readership of the Summer Edition of Moema Sports Magazine by 10% 
-through promotional campaigns<br>
-Jun 2006 – Sep 2006
-THE ART OF MARKETING, <i>Sao Paulo BRAZIL<i>
-<a href="http://www.artofmarketing.com"http://www.artofmarketing.com</a>
+through promotional campaigns</p>
+<p>Jun 2006 – Sep 2006<br>
+THE ART OF MARKETING, <i>Sao Paulo BRAZIL<i><br>
+<a href="http://www.artofmarketing.com"http://www.artofmarketing.com</a><br>
 Internship – 12 weeks full-time</p>
 <h2>Responsibilities and achievements</h2>
  <ul>
