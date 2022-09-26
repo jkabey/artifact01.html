@@ -98,15 +98,14 @@ Enthusiastic self-starter who contributes well to the team</p>
   <p>Tennis, volleyball, surfing, pottery, graphic design</p>
 <h2>REFERENCES</h2>
   <p>Mr Juan Maciel
-<address>Events Manager<br>
-Moema Marketing<br>
+<address>Events Manager <br>Moema Marketing<br>
 13 Sejuado Road<br>
 Moema 38280<br>
 Sao Paulo BRAZIL<br>
 Ph:   +555 111 999<br>
 Fax: +555 111 998<br>
-Email: <a href="juanmaciel@moemamktg.br">
-Ms Izabela Monteiro<br>
+Email: <a href="juanmaciel@moemamktg.br"></a></p>
+<p>Ms Izabela Monteiro<br>
 Marketing Manager<br>
 The Art of Marketing<br>
 98 Bonita Way<br>
@@ -114,7 +113,7 @@ Moema 38280<br>
 Sao Paulo BRAZIL<br>
 Ph: + 555 222 333<br>
 Fax: +555 222 334<br>
-Email: <a href="izabelam@artofmarketing.com"> </address></p>
+Email: <a href="izabelam@artofmarketing.com"> <a></address></p>
 
 
 
