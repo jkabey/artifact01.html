@@ -40,11 +40,10 @@ Coordinated in-house events for the annual Moema Sports Marketing Fair
 including audio visual, entertainment, programming, food and beverage and 
 staffing requirements
 Attended Regional Conference ‘Sports Marketing in Brazil 2007’<br>
-Increased readership of the Summer Edition of Moema Sports Magazine by 10% 
-through promotional campaigns</p>
+Increased readership of the Summer Edition of Moema Sports Magazine by 10% through promotional campaigns</p>
 <p>Jun 2006 – Sep 2006<br>
-THE ART OF MARKETING, <i>Sao Paulo BRAZIL<i><br>
-<a href="http://www.artofmarketing.com"http://www.artofmarketing.com</a><br>
+THE ART OF MARKETING, <i>Sao Paulo BRAZIL</i><br>
+<a href="http://www.artofmarketing.com"http://www.artofmarketing.com </a> <br>
 Internship – 12 weeks full-time</p>
 <h2>Responsibilities and achievements</h2>
  <ul>
@@ -84,9 +83,7 @@ Access) - Advanced</li>
 <li>French - Basic (reading and writing skills)<li>
     </ul>
    <h3>Other</h3>
-<ul>
-  <li>St John’s Ambulance Senior First Aid Certificate - 2007</li>
-  </ul>
+<ul> <li> St John’s Ambulance Senior First Aid Certificate - 2007 </li> </ul>
 <h2>PERSONNAL COMPETENCE</h2>
   <p>Ability to work in a fast-paced environment to set deadlines<br>
 Excellent oral and written correspondence with an exceptional attention to 
