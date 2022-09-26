@@ -8,6 +8,7 @@
 
 <body>
 <h1>CURRICULUM VITAE CLAUDIA MARTINEZ</h1>
+  <hr></hr>
 <h2> PERSONAL DETAILS</h2>
   <p>Residential Address: 123 Dreamland Street, 45987 Moema BRAZIL
 Mobile: +555 666 777
@@ -17,17 +18,17 @@ Nationality: Brazilian</p>
   <p>To expand skills and experience within the marketing department of an 
 international sports events company or association</p>
 <h2>EDUCATION HISTORY</h2>
-  <p>May 2006 – Current 
+  <p> <strong>May 2006 – Current 
 University of Sao Paulo, Sao Paulo BRAZIL
 http//:www.fe.usp.br
 Masters in International Marketing
-Expected graduation: Oct 2007
-Jan 2002 – Nov 2005 
+Expected graduation: Oct 2007</strong>
+<strong>Jan 2002 – Nov 2005 
 University of Sao Paulo, Sao Paulo BRAZIL
-Bachelor of Business in Sports Management
-May 1999 – Feb 2001 
+Bachelor of Business in Sports Management</strong>
+<strong>May 1999 – Feb 2001 
 Augusto Laranja High School, Sao Paulo BRAZIL
-High School Certificate equivalent</p>
+High School Certificate equivalent </strong></p>
 <h2>WORK EXPERIENCE<h2>
   <p>Jan 2006 – Current
 MOEMA MARKETING, Sao Paulo BRAZIL
@@ -72,15 +73,15 @@ and the 40 Hour Famine</>
   <h3>Computer Skills</h3>
   <ul>
     <li>Microsoft XP applications (Word, Excel, Office, PowerPoint, Outlook, 
-Access) – Advanced
-Microsoft Office Document Imaging and Scanning - Advanced
-Acrobat Reader 6.0 – Intermediate
-Fidelio Front Office Systems 6.02 – Beginner</li>
+Access) - Advanced</li>
+    <li>Microsoft Office Document Imaging and Scanning - Advanced</li> 
+    <li>Acrobat Reader 6.0 - Intermediate</li> 
+    <li>Fidelio Front Office Systems 6.02 – Beginner</li>
     </ul>
   <h3>Language Skills</h3>
   <ul>
-    <li>Portuguese - Native Tongue)
-French - Basic (reading and writing skills)<li>
+    <li>Portuguese - Native Tongue) </li>
+<li>French - Basic (reading and writing skills)<li>
     </ul>
    <h3>Other</h3>
 <ul>
