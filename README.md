@@ -115,7 +115,7 @@ Ph: + 555 222 333<br>
 Fax: +555 222 334<br>
 Email: <a href="izabelam@artofmarketing.com">izabelam@artofmarketing.com <a></address></p>
   
-  <img src="https://photos.modelmayhem.com/avatars/4/2/9/5/8/6/7/5ad22772dfb65_m.jpg"
+  <img src="https://photos.modelmayhem.com/avatars/4/2/9/5/8/6/7/5ad22772dfb65_m.jpg" alt="photos.modelmayhem.com/avatars/4/2/9/5/8/6/7/5ad22772dfb65_m.jpg">
 
 
 
