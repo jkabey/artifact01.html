@@ -6,6 +6,13 @@
 
 <head> <title></title></head>
 
-<body></body>
+<body>
+<h1>CURRICULUM VITAE CLAUDIA MARTINEZ</h1>
+<h2> PERSONAL DETAILS, CAREER OBJECTIVE, EDUCATION HISTORY, WORK EXPERIENCE, COMMUNITY INVOLVEMENT & RECOGNISED ACHIEVEMENTS, OTHER SKILLS AND CERTIFICATES, PERSONAL COMPETENCIES, INTERESTS AND ACTIVITIES, REFERENCES</h2>
+<h3>Responsibilities and achievements, Computer Skills, Language Skills, Others</h3>
+
+
+
+</body>
 
 </html>
