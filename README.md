@@ -18,33 +18,33 @@ Nationality: Brazilian</p>
   <p>To expand skills and experience within the marketing department of an 
 international sports events company or association</p>
 <h2>EDUCATION HISTORY</h2>
-  <p> <strong>May 2006</strong> – Current 
-<i>University of Sao Paulo, Sao Paulo BRAZIL</i>
-<a href="http//:www.fe.usp.br">"http//:www.fe.usp.br</a>
-Masters in International Marketing
+  <p> <strong>May 2006 – Current </strong><br>
+<i>University of Sao Paulo, Sao Paulo BRAZIL</i><br>
+<a href="http//:www.fe.usp.br">"http//:www.fe.usp.br</a><br>
+Masters in International Marketing<br>
 Expected graduation: Oct 2007</p>
-<p><strong>Jan 2002 – Nov 2005 </strong>
-<i>University of Sao Paulo, Sao Paulo BRAZIL</i>
-Bachelor of Business in Sports Management<p>
-<p><strong>May 1999 – Feb 2001 <strong>
-<i>Augusto Laranja High School, Sao Paulo BRAZIL</i>
+<p><strong>Jan 2002 – Nov 2005 </strong><br>
+<i>University of Sao Paulo, Sao Paulo BRAZIL</i><br>
+Bachelor of Business in Sports Management<p><br>
+<p><strong>May 1999 – Feb 2001 <strong><br>
+<i>Augusto Laranja High School, Sao Paulo BRAZIL</i><br>
 High School Certificate equivalent </p>
 <h2>WORK EXPERIENCE<h2>
-  <p>Jan 2006 – Current
-MOEMA MARKETING, <i>Sao Paulo BRAZIL</i>
-<a href="http://www.moemamkt.com.br"http://www.moemamkt.com.br</a>
-Marketing Trainee – Casual (weekends and holidays)
-Responsibilities and achievements:
-Developed marketing and promotional material for sporting events
+  <p>Jan 2006 – Current<br>
+MOEMA MARKETING, <i>Sao Paulo BRAZIL</i><br>
+<a href="http://www.moemamkt.com.br"http://www.moemamkt.com.br</a><br>
+Marketing Trainee – Casual (weekends and holidays)<br>
+Responsibilities and achievements:<br>
+Developed marketing and promotional material for sporting events<br>
 Coordinated in-house events for the annual Moema Sports Marketing Fair 
 including audio visual, entertainment, programming, food and beverage and 
-staffing requirements
-Attended Regional Conference ‘Sports Marketing in Brazil 2007’
+staffing requirements<br>
+Attended Regional Conference ‘Sports Marketing in Brazil 2007’<br>
 Increased readership of the Summer Edition of Moema Sports Magazine by 10% 
-through promotional campaigns
+through promotional campaigns<br>
 Jun 2006 – Sep 2006
-THE ART OF MARKETING, Sao Paulo BRAZIL
-http://www.artofmarketing.com
+THE ART OF MARKETING, <i>Sao Paulo BRAZIL<i>
+<a href="http://www.artofmarketing.com"http://www.artofmarketing.com</a>
 Internship – 12 weeks full-time</p>
 <h2>Responsibilities and achievements</h2>
  <ul>
@@ -59,15 +59,15 @@ tasks</li>
    </ul>
 <h2>COMMUNITY INVOLVEMENT & RECOGNISED ACHIEVEMENTS</h2> 
   <p>2006 Selected as President of University Recreation and Sports 
-Representative Council
+Representative Council<br>
 2005/2007         Commendation for Academic Excellence – Head of Sports 
-Marketing, SP University
-2000 – 2006 Captained Flora Seju Tennis Team
+Marketing, SP University<br>
+2000 – 2006 Captained Flora Seju Tennis Team<br>
 2005 1st place in the Flora Seju Regional Volleyball 
-Championships
-2003 – 2006 Chaired the Sao Paolo Sports Ball Coordination Committee
+Championships<br>
+2003 – 2006 Chaired the Sao Paolo Sports Ball Coordination Committee<br>
 2003 – 2007 Volunteer – Fundraising for Amnesty International 
-and the 40 Hour Famine</>
+and the 40 Hour Famine</p>
 <h2>OTHER SKILLS AND CERTIFICATES</h2>
    
   <h3>Computer Skills</h3>
@@ -88,11 +88,11 @@ Access) - Advanced</li>
   <li>St John’s Ambulance Senior First Aid Certificate - 2007</li>
   </ul>
 <h2>PERSONNAL COMPETENCE</h2>
-  <p>Ability to work in a fast-paced environment to set deadlines
+  <p>Ability to work in a fast-paced environment to set deadlines<br>
 Excellent oral and written correspondence with an exceptional attention to 
-detail
-Highly organised with a creative flair for project work
-Enthusiastic self-starter who contributes well to the team</p>
+detail<br>
+Highly organised with a creative flair for project work<br>
+Enthusiastic self-starter who contributes well to the team<br></p>
   
   <h2>INTERESTS AND ACTIVITIES</h2>
   <p>Tennis, volleyball, surfing, pottery, graphic design</p>
@@ -104,7 +104,7 @@ Moema 38280<br>
 Sao Paulo BRAZIL<br>
 Ph:   +555 111 999<br>
 Fax: +555 111 998<br>
-Email: <a href="juanmaciel@moemamktg.br"></a></p>
+Email: <a href="juanmaciel@moemamktg.br">juanmaciel@moemamktg.br</a></p>
 <p>Ms Izabela Monteiro<br>
 Marketing Manager<br>
 The Art of Marketing<br>
@@ -113,7 +113,7 @@ Moema 38280<br>
 Sao Paulo BRAZIL<br>
 Ph: + 555 222 333<br>
 Fax: +555 222 334<br>
-Email: <a href="izabelam@artofmarketing.com"> <a></address></p>
+Email: <a href="izabelam@artofmarketing.com">izabelam@artofmarketing.com <a></address></p>
 
 
 
