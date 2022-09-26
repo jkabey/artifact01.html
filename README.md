@@ -10,29 +10,29 @@
 <h1>CURRICULUM VITAE CLAUDIA MARTINEZ</h1>
   <hr></hr>
 <h2> PERSONAL DETAILS</h2>
-  <p>Residential Address: 123 Dreamland Street, 45987 Moema BRAZIL
-Mobile: +555 666 777
-Date of Birth: 1  April 1980
+  <p>Residential Address: 123 Dreamland Street, 45987 Moema BRAZIL<br>
+Mobile: +555 666 777<br>
+Date of Birth: 1  April 1980<br>
 Nationality: Brazilian</p>
 <h2>CAREER OBJECTIVE<h2>
   <p>To expand skills and experience within the marketing department of an 
 international sports events company or association</p>
 <h2>EDUCATION HISTORY</h2>
-  <p> <strong>May 2006 – Current 
-University of Sao Paulo, Sao Paulo BRAZIL
-http//:www.fe.usp.br
+  <p> <strong>May 2006</strong> – Current 
+<i>University of Sao Paulo, Sao Paulo BRAZIL</i>
+<a href="http//:www.fe.usp.br">"http//:www.fe.usp.br</a>
 Masters in International Marketing
-Expected graduation: Oct 2007</strong>
-<strong>Jan 2002 – Nov 2005 
-University of Sao Paulo, Sao Paulo BRAZIL
-Bachelor of Business in Sports Management</strong>
-<strong>May 1999 – Feb 2001 
-Augusto Laranja High School, Sao Paulo BRAZIL
-High School Certificate equivalent </strong></p>
+Expected graduation: Oct 2007</p>
+<p><strong>Jan 2002 – Nov 2005 </strong>
+<i>University of Sao Paulo, Sao Paulo BRAZIL</i>
+Bachelor of Business in Sports Management<p>
+<p><strong>May 1999 – Feb 2001 <strong>
+<i>Augusto Laranja High School, Sao Paulo BRAZIL</i>
+High School Certificate equivalent </p>
 <h2>WORK EXPERIENCE<h2>
   <p>Jan 2006 – Current
-MOEMA MARKETING, Sao Paulo BRAZIL
-http://www.moemamkt.com.br
+MOEMA MARKETING, <i>Sao Paulo BRAZIL</i>
+<a href="http://www.moemamkt.com.br"http://www.moemamkt.com.br</a>
 Marketing Trainee – Casual (weekends and holidays)
 Responsibilities and achievements:
 Developed marketing and promotional material for sporting events
