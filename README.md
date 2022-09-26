@@ -1,10 +1,9 @@
 # artifact01.html
-
 <!DOCTYPE>
 
 <html>
 
-<head> </head>
+<head> title RESUME </head>
 
 <body>
 <h1>CURRICULUM VITAE CLAUDIA MARTINEZ</h1>
@@ -41,7 +40,7 @@ including audio visual, entertainment, programming, food and beverage and
 staffing requirements
 Attended Regional Conference ‘Sports Marketing in Brazil 2007’<br>
 Increased readership of the Summer Edition of Moema Sports Magazine by 10% through promotional campaigns</p>
-<p>Jun 2006 – Sep 2006<br>
+Jun 2006 – Sep 2006 <br>
 THE ART OF MARKETING, <i>Sao Paulo BRAZIL</i><br>
 <a href="http://www.artofmarketing.com"http://www.artofmarketing.com </a> <br>
 Internship – 12 weeks full-time</p>
